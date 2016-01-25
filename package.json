@@ -1,0 +1,23 @@
+{
+  "name": "log-time",
+  "version": "0.1.0",
+  "description": "Takes git repo, returns text to be used to log time",
+  "main": "index.js",
+  "bin": {
+    "log-time": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lesterzone/log-time.git"
+  },
+  "scripts": {
+    "test": "node ./tests.js"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "time-log"
+  ],
+  "author": "lesterzone",
+  "license": "MIT"
+}
