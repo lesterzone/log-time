@@ -1,6 +1,6 @@
 {
   "name": "log-time",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Takes git repo, returns text to be used to log time",
   "main": "index.js",
   "bin": {
