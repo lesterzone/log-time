@@ -4,7 +4,7 @@ Command line utility to get content from commits and output content to be used o
 
 ## Why?
 
-Because I need it. Because I can. Because it may helps you.
+Because I need it. Because I can. Because it may help you.
 
 ## Install
 
@@ -43,7 +43,7 @@ so:
 log-time
 ```
 
-## Ussage
+## Usage
 
 ```
 log-time # output commits from today
